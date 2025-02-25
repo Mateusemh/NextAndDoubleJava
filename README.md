@@ -1,0 +1,2 @@
+# NextAndDoubleJava
+Next e Double
